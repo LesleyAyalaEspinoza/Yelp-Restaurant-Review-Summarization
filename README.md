@@ -13,6 +13,11 @@ This repository demonstrates how to extract and summarize customer sentiment fro
 
 ## Data Structure 
 
+This ERD shows how restaurant reviews are linked to businesses and how sentiment summaries are derived from customer feedback. Individual reviews are analyzed to extract recurring themes and sentiments, which are then organized into structured summaries for easier interpretation.
+
+<img width="1173" height="754" alt="Screenshot 2025-12-14 at 3 26 31 PM" src="https://github.com/user-attachments/assets/b2a42e46-aa13-4a98-a8d7-01fa2514494a" />
+
+
 ## Data Description
 
 - Source: Yelp Restaurant Reviews
