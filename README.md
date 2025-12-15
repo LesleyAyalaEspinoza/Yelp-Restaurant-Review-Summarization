@@ -4,7 +4,7 @@
 
 This analysis transforms unstructured restaurant reviews into clear, decision ready insights by identifying customer sentiment, recurring themes, and experience drivers across multiple businesses. Rather than reviewing individual comments, stakeholders can quickly understand what customers consistently value, where experiences fall short, and which areas offer the greatest opportunity for improvement.
 
-Using structured queries and automated text summarization, large volumes of customer feedback are distilled into concise categories covering food quality, service, ambiance, convenience, and pricing
+Using structured queries and text summarization, large volumes of customer feedback are distilled into concise categories covering food quality, service, ambiance, convenience, and pricing
 
 Online customer reviews contain valuable feedback, but their unstructured format makes large scale analysis difficult. Business leaders often lack the time or tools to read hundreds of individual comments to identify meaningful patterns, sentiments, trends, or operational strengths and weaknesses.
 
