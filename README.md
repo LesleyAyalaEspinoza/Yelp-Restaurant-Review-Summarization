@@ -1,4 +1,4 @@
-# Yelp-Restaurant-Review-Summarization
+# Yelp Restaurant Review Summarization
 
 ## Overview
 
@@ -19,6 +19,10 @@ This ERD shows how restaurant reviews are linked to businesses and how sentiment
 <img width="1173" height="754" alt="Screenshot 2025-12-14 at 3 26 31 PM" src="https://github.com/user-attachments/assets/b2a42e46-aa13-4a98-a8d7-01fa2514494a" />
 
 ## Key Findings
+Below, I have attached screenshots of the output of my code. The output is the summary of the Yelp reviews.
+
+<img width="809" height="542" alt="Screenshot 2025-12-14 at 7 19 18 PM" src="https://github.com/user-attachments/assets/7b7da0e4-ac72-4266-a65e-461561372adf" />
+<img width="809" height="435" alt="Screenshot 2025-12-14 at 6 42 12 PM" src="https://github.com/user-attachments/assets/50917f93-8727-4861-abd4-43bbd2168e70" />
 
 
 ## Recomendations
