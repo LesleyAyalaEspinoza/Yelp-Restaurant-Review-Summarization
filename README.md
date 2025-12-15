@@ -1,15 +1,16 @@
 # Yelp-Restaurant-Review-Summarization
 
-## Project Background
+## Overview
 
-This repository demonstrates how to extract and summarize customer sentiment from restaurant reviews using SQL, Python, and large language models. The analysis focuses on identifying positive and negative customer experiences from star ratings and written feedback, and on transforming unstructured review text into structured, actionable insights. By leveraging LangChain and Google Gemini within a Databricks environment, this workflow produces categorized summaries that highlight key themes such as food quality, service, ambiance, and pricing. The goal is to make large volumes of customer feedback easier to interpret for both businesses and consumers.
+This analysis transforms unstructured restaurant reviews into clear, decision ready insights by identifying customer sentiment, recurring themes, and experience drivers across multiple businesses. Rather than reviewing individual comments, stakeholders can quickly understand what customers consistently value, where experiences fall short, and which areas offer the greatest opportunity for improvement.
 
-## Objective 
+Using structured queries and automated text summarization, large volumes of customer feedback are distilled into concise categories covering food quality, service, ambiance, convenience, and pricing
 
-- Analyze restaurant reviews to understand customer sentiment
-- Classify reviews as positive and negative using star ratings
-- Summarize recurring themes within customer feedback
-- Convert unstructured text into structured, readable outputs.
+## Background
+
+Online customer reviews contain valuable feedback, but their unstructured format makes large scale analysis difficult. Business leaders often lack the time or tools to read hundreds of individual comments to identify meaningful patterns, sentiments, trends, or operational strengths and weaknesses.
+
+This analysis addresses that challenge by organizing reviews into positive and negative sentiment groups and summarizing them into clear themes and categories. The result is a structured view of customer experience that supports faster, more informed decision making without requiring stakeholders to manually interpret raw review text.
 
 ## Data Structure 
 
@@ -17,21 +18,7 @@ This ERD shows how restaurant reviews are linked to businesses and how sentiment
 
 <img width="1173" height="754" alt="Screenshot 2025-12-14 at 3 26 31 PM" src="https://github.com/user-attachments/assets/b2a42e46-aa13-4a98-a8d7-01fa2514494a" />
 
-
-## Data Description
-
-- Source: Yelp Restaurant Reviews
-- Key  frields:
-  - business_id
-  - stars
-  - text (review content)
-- Data filtered to include restaurant-related categories only
-- Reviews with fewer than 2 stars are excluded to focus on meaningful negative experiences
-
-## Methodology
-
-
-
+## Key Findings
 
 
 ## Recomendations
